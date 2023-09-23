@@ -1,5 +1,5 @@
 # Cloud-Cost-Optimization-using-CastAI
-ntroduction
+Introduction
 Who doesn't want to save money? Right?
 
 With the rise of cloud computing solutions, the customer demand for the applications has increased widely, to serve this purpose you need to increase the supply but without proper monitoring of the resources that you are provisioning, you might end up with long bills from your cloud provider.
